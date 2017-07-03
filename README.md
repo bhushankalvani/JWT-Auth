@@ -1,7 +1,7 @@
 # Token Auth
 Token Authentication for Applications/Websites with Node Servers.
 
-## This Node App makes use of JWT Tokens for authentication.
+## JSON Web Token Authentication for NodeJS Application.
 
 Ready to use as a website/app server.
 
